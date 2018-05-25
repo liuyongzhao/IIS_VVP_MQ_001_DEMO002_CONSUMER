@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "AdapterName":"IIS_VVP_MQ_001_DEMO002_PROVIDER",
+  "version":"1.0-SNAPSHOT",
+  "compant_name": "ProviderAVerticle",
+  "OrgID":"001",
+  "HierarChyID":"000",
+  "ExchangeType":"direct",
+  "ExchangeName":"MessageType_001",
+  "RoutingKey":"OrgID_HierarChyID",
+  "MessageID":"1th51ddfee154eg",
+  "Message":"Hello RabbitMQ, from Vert.x !",
+  "TestID":"TC 001",
+  "SeriesID":"001",
+  "host":"127.0.0.1"
+}
